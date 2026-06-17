@@ -52,7 +52,7 @@ Password: password
 
 ##Screenshot Aplikasi
 
-Saya sarankan buat folder: ss aplikasi
+Saya buat difolder: ss aplikasi
 
 
 #SOAL TEST PROGRAMMER
